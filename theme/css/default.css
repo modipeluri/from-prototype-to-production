@@ -1484,3 +1484,9 @@ aside.gdbar img {
     font-family: monospace !important;
   }
 }
+
+
+.half {
+  width: 47%;
+  float: left;
+}
